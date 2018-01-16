@@ -1,0 +1,55 @@
+
+
+
+Oleo color 
+
+	Color: Tono, valor, saturación. Curso de pintura
+		https://www.youtube.com/watch?v=nntrcOTE5Bw
+
+
+	Curso de color (16 videos)
+		https://www.youtube.com/watch?v=9XlC5nxKSaw&list=PLebxDwZTxZebk_a6E1LroiN4Bj_wCpo8l
+
+
+	Sección de 1ra Parte: Fundamentos de la Pintura al Oleo
+		https://www.youtube.com/watch?v=r1-Q0LHd2D0
+
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Cualidades del color:
+
+
+	_vamos ha contemplar y combiar el circulo cromático con la escala de valores tonales (de blanco ha negro en pasos)
+
+
+	_cuando ha un color se va agregando blando, se obtienen "tintes del mismo color", mientras el color se va aclarando
+
+
+	_cuando ha un color se va agregando negro, se obtienen "sombras", mientras el color se va oscureciendo
+
+
+	_cuando ha un color se le agrega gris, el color se le va restando saturación hasta convertirse en gris así, éste buscará 
+
+	la igualdad con el gris que se le está agregando
+
+
+	_cuando combinamos un color con gris o su color complementario obtenemos "tonos", ya que el color se verá neutralizado
+
+
+	_en pigmento la forma de aplicar un color sobre un superficie puede diferenciarse entre un color "opaco", y cun color
+
+	"transparente", así, si lo aplicamos suavemente éste se verá como veladuras ó transparente, más si lo aplicamos suvamente
+
+	y varias veces éste se verá opaco y sólido
+
+
+
+
+
